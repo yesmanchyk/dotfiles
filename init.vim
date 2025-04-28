@@ -1,4 +1,4 @@
-call plug#begin(s:plug_dir)
+call plug#begin()
 Plug 'neovim/nvim-lspconfig'
 Plug 'hrsh7th/cmp-nvim-lsp'
 Plug 'hrsh7th/cmp-buffer'
